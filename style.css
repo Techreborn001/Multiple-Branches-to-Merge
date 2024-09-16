@@ -1,0 +1,13 @@
+.darkMode { 
+    background: black; 
+}
+
+:is(.darkMode){
+  h1{
+    color: white;
+  }
+
+  i{
+    color: white;
+  }
+}
