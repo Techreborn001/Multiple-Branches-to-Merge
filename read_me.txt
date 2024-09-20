@@ -1,2 +1,1 @@
-
 During the creation of this new branch I was testing how the unmerged branches if I pushed them all to the remote would appear. 
